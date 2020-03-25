@@ -189,6 +189,10 @@
     <string name="brightness_icon_title">Auto brightness icon</string>
     <string name="brightness_icon_summary">Show toggle for adaptive brightness near the slider</string>
 
+    <!-- MIUI brightness slider -->
+    <string name="brightness_slider_qs_unexpanded">MemeUI brightness slider</string>
+    <string name="brightness_slider_qs_unexpanded_summary">Shows brightness slider below qs panel</string>
+
     <!-- Navbar Invert -->
     <string name="navbar_invert_layout_title">Invert layout</string>
 
